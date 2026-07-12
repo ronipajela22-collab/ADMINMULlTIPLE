@@ -4,6 +4,11 @@
             "expiry": "lifetime",
             "name": "Test",
             "devices": 1
+        },
+        "QENP-HNBK-XPTX-LM6X": {
+            "expiry": "lifetime",
+            "name": "Hi",
+            "devices": 1
         }
     },
     "BANNED_USERS": []
