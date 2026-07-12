@@ -1,4 +1,10 @@
 {
-    "PREMIUM_USERS": {},
+    "PREMIUM_USERS": {
+        "JUKA-FFF2-UKSE-BPB9": {
+            "expiry": "lifetime",
+            "name": "Ryzo",
+            "devices": 1
+        }
+    },
     "BANNED_USERS": []
 }
