@@ -9,5 +9,7 @@
             ]
         }
     },
-    "BANNED_USERS": []
+    "BANNED_USERS": [
+        "tesr"
+    ]
 }
