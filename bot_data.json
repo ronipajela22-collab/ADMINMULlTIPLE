@@ -1,4 +1,10 @@
 {
-    "PREMIUM_USERS": {},
+    "PREMIUM_USERS": {
+        "FNFQ-6RWT-FE2Z-XZK5": {
+            "expiry": "lifetime",
+            "name": "Test",
+            "devices": 1
+        }
+    },
     "BANNED_USERS": []
 }
