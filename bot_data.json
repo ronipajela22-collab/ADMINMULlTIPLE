@@ -12,11 +12,6 @@
             "devices_list": [
                 "Hi"
             ]
-        },
-        "W6YB-SPVF-X6ZL-83SG": {
-            "expiry": "lifetime",
-            "name": "Tests",
-            "devices": 1
         }
     },
     "BANNED_USERS": []
