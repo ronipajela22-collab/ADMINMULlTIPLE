@@ -3,7 +3,10 @@
         "JUKA-FFF2-UKSE-BPB9": {
             "expiry": "lifetime",
             "name": "Ryzo",
-            "devices": 1
+            "devices": 1,
+            "devices_list": [
+                "Ryzo"
+            ]
         }
     },
     "BANNED_USERS": []
