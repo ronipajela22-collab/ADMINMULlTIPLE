@@ -4,6 +4,11 @@
             "expiry": "1784285976.272",
             "name": "FREE - ACCESS - TOOL",
             "devices": 1
+        },
+        "TGG9-93KL-6WD6-8CDL": {
+            "expiry": "lifetime",
+            "name": "Hi",
+            "devices": 1
         }
     },
     "BANNED_USERS": [
