@@ -20,6 +20,11 @@
             "expiry": "1784287441.519",
             "name": "Test",
             "devices": 1
+        },
+        "G438-DYK4-U5Z3-H36A": {
+            "expiry": "lifetime",
+            "name": "Owner",
+            "devices": 1
         }
     },
     "BANNED_USERS": [
