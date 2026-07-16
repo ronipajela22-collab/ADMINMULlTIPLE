@@ -1,5 +1,11 @@
 {
-    "PREMIUM_USERS": {},
+    "PREMIUM_USERS": {
+        "RBDQ-3GZX-LNHJ-6S9X": {
+            "expiry": "1784285976.272",
+            "name": "FREE - ACCESS - TOOL",
+            "devices": 1
+        }
+    },
     "BANNED_USERS": [
         "tesr",
         "test"
