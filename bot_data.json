@@ -12,6 +12,11 @@
             "devices_list": [
                 "Hi"
             ]
+        },
+        "6L8Q-AXC5-4WQH-U2GD": {
+            "expiry": "1784287441.519",
+            "name": "Test",
+            "devices": 1
         }
     },
     "BANNED_USERS": [
