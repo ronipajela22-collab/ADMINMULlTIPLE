@@ -7,14 +7,6 @@
             "devices_list": [
                 "test"
             ]
-        },
-        "FVFG-LNBQ-8PD8-GHKX": {
-            "expiry": "lifetime",
-            "name": "CoderX",
-            "devices": 1,
-            "devices_list": [
-                "CoderX"
-            ]
         }
     },
     "BANNED_USERS": [
