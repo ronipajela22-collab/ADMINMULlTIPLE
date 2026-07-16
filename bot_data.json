@@ -3,7 +3,10 @@
         "RBDQ-3GZX-LNHJ-6S9X": {
             "expiry": "1784285976.272",
             "name": "FREE - ACCESS - TOOL",
-            "devices": 1
+            "devices": 1,
+            "devices_list": [
+                "6L8Q-AXC5-4WQH-U2GD"
+            ]
         },
         "TGG9-93KL-6WD6-8CDL": {
             "expiry": "lifetime",
