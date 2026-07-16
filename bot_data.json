@@ -1,14 +1,5 @@
 {
-    "PREMIUM_USERS": {
-        "JBZT-FMG7-ZS49-BZ7X": {
-            "expiry": "lifetime",
-            "name": "Test",
-            "devices": 3,
-            "devices_list": [
-                "test"
-            ]
-        }
-    },
+    "PREMIUM_USERS": {},
     "BANNED_USERS": [
         "tesr",
         "test"
