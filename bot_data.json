@@ -1,13 +1,5 @@
 {
     "PREMIUM_USERS": {
-        "RBDQ-3GZX-LNHJ-6S9X": {
-            "expiry": "1784285976.272",
-            "name": "FREE - ACCESS - TOOL",
-            "devices": 1,
-            "devices_list": [
-                "6L8Q-AXC5-4WQH-U2GD"
-            ]
-        },
         "TGG9-93KL-6WD6-8CDL": {
             "expiry": "lifetime",
             "name": "Hi",
@@ -16,11 +8,6 @@
                 "Hi"
             ]
         },
-        "6L8Q-AXC5-4WQH-U2GD": {
-            "expiry": "1784287441.519",
-            "name": "Test",
-            "devices": 1
-        },
         "G438-DYK4-U5Z3-H36A": {
             "expiry": "lifetime",
             "name": "Owner",
@@ -28,6 +15,11 @@
             "devices_list": [
                 "Owner"
             ]
+        },
+        "RQT4-HUS5-KTKU-R9NA": {
+            "expiry": "1785058561.243",
+            "name": "Lance",
+            "devices": 1
         }
     },
     "BANNED_USERS": [
