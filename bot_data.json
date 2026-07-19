@@ -1,13 +1,5 @@
 {
     "PREMIUM_USERS": {
-        "TGG9-93KL-6WD6-8CDL": {
-            "expiry": "lifetime",
-            "name": "Hi",
-            "devices": 1,
-            "devices_list": [
-                "Hi"
-            ]
-        },
         "RQT4-HUS5-KTKU-R9NA": {
             "expiry": "1785058561.243",
             "name": "Lance",
