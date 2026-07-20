@@ -19,7 +19,10 @@
         "NAL9-EH2A-TC2K-HA3E": {
             "expiry": "lifetime",
             "name": "02",
-            "devices": 1
+            "devices": 1,
+            "devices_list": [
+                "02"
+            ]
         }
     },
     "BANNED_USERS": [
