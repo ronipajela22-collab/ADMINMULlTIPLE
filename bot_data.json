@@ -7,6 +7,11 @@
             "devices_list": [
                 "RQT4-HUS5-KTKU-R9NA"
             ]
+        },
+        "VEZD-TEDE-SA52-3UZ6": {
+            "expiry": "lifetime",
+            "name": "01",
+            "devices": 1
         }
     },
     "BANNED_USERS": [
