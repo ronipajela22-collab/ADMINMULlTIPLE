@@ -19,7 +19,10 @@
         "UUQD-KHKJ-8H5G-8F5W": {
             "expiry": "1785072255.383",
             "name": "Ml",
-            "devices": 1
+            "devices": 1,
+            "devices_list": [
+                "ML"
+            ]
         }
     },
     "BANNED_USERS": [
