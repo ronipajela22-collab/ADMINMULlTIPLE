@@ -15,6 +15,11 @@
             "devices_list": [
                 "01"
             ]
+        },
+        "UUQD-KHKJ-8H5G-8F5W": {
+            "expiry": "1785072255.383",
+            "name": "Ml",
+            "devices": 1
         }
     },
     "BANNED_USERS": [
