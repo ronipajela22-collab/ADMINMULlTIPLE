@@ -17,7 +17,10 @@
         "QM8N-3LDX-3XW8-Q8ZN": {
             "expiry": "lifetime",
             "name": "owneronly",
-            "devices": 1
+            "devices": 1,
+            "devices_list": [
+                "owneronly"
+            ]
         }
     },
     "BANNED_USERS": [
