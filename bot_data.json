@@ -23,6 +23,12 @@
             "devices_list": [
                 "ML"
             ]
+        },
+        "FAATHIR567": {
+            "name": "HiganTzy Checker",
+            "expiry": "lifetime",
+            "devices": 1,
+            "devices_list": []
         }
     },
     "BANNED_USERS": [
