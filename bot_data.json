@@ -21,6 +21,14 @@
             "devices_list": [
                 "owneronly"
             ]
+        },
+        "VEZD-TEDE-SA52-3UZ7": {
+            "expiry": "lifetime",
+            "name": "GALAXY_125",
+            "devices": 1,
+            "devices_list": [
+                "GALAXY_125"
+            ]
         }
     },
     "BANNED_USERS": [
