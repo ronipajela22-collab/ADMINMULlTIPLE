@@ -41,7 +41,10 @@
         "WVF2-6WLS-GGQA-58UD": {
             "expiry": "lifetime",
             "name": "Nova",
-            "devices": 1
+            "devices": 1,
+            "devices_list": [
+                "and_757365725f323061663164393463303238000000-0d7e0cde-745d-4bf2-9ae4eaef9ed9"
+            ]
         }
     },
     "BANNED_USERS": [
