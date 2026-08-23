@@ -45,6 +45,11 @@
             "devices_list": [
                 "and_757365725f323061663164393463303238000000-0d7e0cde-745d-4bf2-9ae4eaef9ed9"
             ]
+        },
+        "UMFT-6HHH-G428-SZM5": {
+            "expiry": "lifetime",
+            "name": "Nova1",
+            "devices": 1
         }
     },
     "BANNED_USERS": [
