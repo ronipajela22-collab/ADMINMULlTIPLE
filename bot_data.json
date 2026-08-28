@@ -58,7 +58,9 @@
             "expiry": "lifetime",
             "name": "90",
             "devices": 10,
-            "devices_list": []
+            "devices_list": [
+                ""
+            ]
         }
     },
     "BANNED_USERS": [
