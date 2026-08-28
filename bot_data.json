@@ -53,6 +53,12 @@
             "devices_list": [
                 "Nova1"
             ]
+        },
+        "0L76-NVAO-253H-9UGI": {
+            "expiry": "lifetime",
+            "name": "90",
+            "devices": 10,
+            "devices_list": []
         }
     },
     "BANNED_USERS": [
