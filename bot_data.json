@@ -61,6 +61,11 @@
             "devices_list": [
                 ""
             ]
+        },
+        "N2L8-ZARC-TXMY-JH8R": {
+            "expiry": "1788086396.252",
+            "name": "Free-Access",
+            "devices": 999
         }
     },
     "BANNED_USERS": [
