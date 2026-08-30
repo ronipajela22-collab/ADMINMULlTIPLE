@@ -1,1 +1,17 @@
-{"test": "connection", "timestamp": 1788017044.2656581}
+{
+    "test": "connection",
+    "timestamp": 1788017044.2656581,
+    "PREMIUM_USERS": {
+        "ML-8OAJ-TG52-MO9X-E295": {
+            "name": "1",
+            "devices": 1,
+            "devices_list": [],
+            "expiry": "1819615365.1815743",
+            "created": 1788079365.181647,
+            "v2l": 1,
+            "tier": "STANDARD",
+            "status": "active"
+        }
+    },
+    "BANNED_USERS": []
+}
