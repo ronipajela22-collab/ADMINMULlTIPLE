@@ -31,6 +31,18 @@
             "v2l": 0,
             "tier": "STANDARD",
             "status": "active"
+        },
+        "ML-LEJL-DUJT-4CRQ-7015": {
+            "name": "",
+            "devices": 1,
+            "devices_list": [
+                "371a9b12cd62b750"
+            ],
+            "expiry": "1819615587.7203195",
+            "created": 1788079587.720395,
+            "v2l": 0,
+            "tier": "STANDARD",
+            "status": "active"
         }
     },
     "BANNED_USERS": []
